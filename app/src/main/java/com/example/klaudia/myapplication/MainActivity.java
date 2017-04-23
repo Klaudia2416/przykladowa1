@@ -39,6 +39,9 @@ public class MainActivity extends AppCompatActivity
         tags = (EditText) findViewById(R.id.tags);
         list = (ListView) findViewById(R.id.listView);
 
+        plapplapla
+
+                
         send.setOnClickListener(new View.OnClickListener()
         {
             @Override
